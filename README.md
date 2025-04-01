@@ -27,4 +27,4 @@ The idea behind this is to control your mouse cursor using hand gestures capture
 ## Setup Instructions
 1. Clone the project repository:
    ```bash
-   git clone https://github.com/YourUsername/Hand-Gesture-Mouse-Control.git
+   git clone https://github.com/Fahad-Al-Maashani/Hand_Gesture_PC_Mouse.git
